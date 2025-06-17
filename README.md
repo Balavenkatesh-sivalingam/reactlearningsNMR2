@@ -1,2 +1,2 @@
 ﻿# reactlearningsNMR2
-#created a own react app with dependencies using parcel as the bundler.
+# created a own react app with dependencies using parcel as the bundler.
